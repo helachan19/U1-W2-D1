@@ -22,15 +22,17 @@ REGOLE
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-/* let myName = "Asia" */
+/* let myName = ("Asia")
+let Asia = String
+console.log (myName) */
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
-/*  int a = 12;
-    int b = 20; 
-    int somma = a * b; // risultato: 32
+/*  let numb1 = 12;
+    let numb2 = 20; 
+    let somma = numb1 * numb2; // risultato: 32
 */
 
 /* ESERCIZIO 4
